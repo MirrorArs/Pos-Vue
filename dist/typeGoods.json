@@ -1,0 +1,208 @@
+{
+  "oftenGoods":[
+    {
+      "goodsId": 1,
+      "goodsName": "酸汤肥牛面",
+      "price": 20
+    },
+    {
+      "goodsId": 3,
+      "goodsName": "酸菜牛肉面",
+      "price": 18
+    },
+    {
+      "goodsId": 6,
+      "goodsName": "牛筋牛腩面",
+      "price": 29
+    },
+    {
+      "goodsId": 7,
+      "goodsName": "红烧牛腩面",
+      "price": 23
+    },
+    {
+      "goodsId": 10,
+      "goodsName": "牛肉土豆饭",
+      "price": 21
+    },
+    {
+      "goodsId": 11,
+      "goodsName": "卤肉饭",
+      "price": 17
+    },
+    {
+      "goodsId": 16,
+      "goodsName": "烩牛肉沙锅",
+      "price": 24
+    },
+    {
+      "goodsId": 19,
+      "goodsName": "牦牛肉起酥饼",
+      "price": 12
+    },
+    {
+      "goodsId": 20,
+      "goodsName": "牛腩牛筋煲",
+      "price": 29
+    },
+    {
+      "goodsId": 22,
+      "goodsName": "蜂蜜柚子茶",
+      "price": 6
+    }
+  ],
+  "typeGoods":[
+    [
+      {
+        "goodsId": 1,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/1.jpg",
+        "goodsName": "酸汤肥牛面",
+        "price": 20
+      },
+      {
+        "goodsId": 2,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/2.jpg",
+        "goodsName": "黑小麦烩面片",
+        "price": 25
+      },
+      {
+        "goodsId": 3,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/3.jpg",
+        "goodsName": "酸菜牛肉面",
+        "price": 18
+      },
+      {
+        "goodsId": 4,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/4.jpg",
+        "goodsName": "肉蛋双加拉面",
+        "price": 18
+      },
+      {
+        "goodsId": 5,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/5.jpg",
+        "goodsName": "黑小麦番茄面",
+        "price": 22
+      },
+      {
+        "goodsId": 6,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/6.jpg",
+        "goodsName": "牛筋牛腩面",
+        "price": 29
+      },
+      {
+        "goodsId": 7,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/7.jpg",
+        "goodsName": "红烧牛腩面",
+        "price": 23
+      },
+      {
+        "goodsId": 8,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/8.jpg",
+        "goodsName": "孜然肉炒面",
+        "price": 25
+      }
+    ],
+    [
+      {
+        "goodsId": 9,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/9.jpg",
+        "goodsName": "咖喱鸡肉饭",
+        "price": 16
+      },
+      {
+        "goodsId": 10,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/10.jpg",
+        "goodsName": "牛肉土豆饭",
+        "price": 21
+      },
+      {
+        "goodsId": 11,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/11.jpg",
+        "goodsName": "卤肉饭",
+        "price": 17
+      },
+      {
+        "goodsId": 12,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/12.jpg",
+        "goodsName": "培根田园炒饭",
+        "price": 21
+      },
+      {
+        "goodsId": 13,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/13.jpg",
+        "goodsName": "孜然小炒肉饭",
+        "price": 22
+      }
+    ],
+    [
+      {
+        "goodsId": 14,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/14.jpg",
+        "goodsName": "排骨沙锅",
+        "price": 25
+      },
+      {
+        "goodsId": 15,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/15.jpg",
+        "goodsName": "高汤丸子沙锅",
+        "price": 19
+      },
+      {
+        "goodsId": 16,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/16.jpg",
+        "goodsName": "烩牛肉沙锅",
+        "price": 24
+      }
+    ],
+    [
+      {
+        "goodsId": 17,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/17.jpg",
+        "goodsName": "酿皮",
+        "price": 7
+      },
+      {
+        "goodsId": 18,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/18.jpg",
+        "goodsName": "牛肉馅饼",
+        "price": 8
+      },
+      {
+        "goodsId": 19,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/19.jpg",
+        "goodsName": "牦牛肉起酥饼",
+        "price": 12
+      },
+      {
+        "goodsId": 20,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/20.jpg",
+        "goodsName": "牛腩牛筋煲",
+        "price": 29
+      },
+      {
+        "goodsId": 21,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/21.jpg",
+        "goodsName": "黄焖丸子",
+        "price": 16
+      },
+      {
+        "goodsId": 22,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/22.jpg",
+        "goodsName": "蜂蜜柚子茶",
+        "price": 6
+      },
+      {
+        "goodsId": 23,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/23.jpg",
+        "goodsName": "八宝茶",
+        "price": 6
+      },
+      {
+        "goodsId": 24,
+        "goodsImg": "http://peh9wia8s.bkt.clouddn.com/24.jpg",
+        "goodsName": "玫瑰花绿茶",
+        "price": 6
+      }
+    ]
+  ]
+}

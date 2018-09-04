@@ -1,4 +1,6 @@
-# demo
+# Pos-Vue
+
+## 预览链接 https://mirrorars.github.io/Pos-Vue/dist
 
 ## Project setup
 ```
